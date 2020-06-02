@@ -1,6 +1,19 @@
 body{
+    display:block;
     background: grey;
     font-size: 18px;
     height: 500px;
    
+}
+.red, .yellow , .green {
+    height: 100px;
+    width: 100px;}
+.red{
+    background: red;
+}
+.yellow{
+    background: yellow;
+}
+.green {
+    background: green;
 }
